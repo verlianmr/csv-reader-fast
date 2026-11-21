@@ -2,7 +2,7 @@
 
 A faster drop-in for make.fun's `csv-reader` 1.0.0: `run(input)` returns
 csv-reader's answer, `{columns, rows, errors}`, for every input, byte for
-byte, and does it in about a third of the CPU time.
+byte, and does it in about a quarter of the CPU time.
 
 [![csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
 [![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/verlianmr/csv-reader-fast/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard)
